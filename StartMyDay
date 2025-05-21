@@ -2,3 +2,4 @@
 
 Start-Process olk
 Start-Process Teams
+Start-Process Notepad++
