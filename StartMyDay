@@ -1,0 +1,3 @@
+#Begin with all the programs you want to open
+
+Start-Process olk
